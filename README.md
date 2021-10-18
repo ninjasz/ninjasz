@@ -1,2 +1,2 @@
 # ninjasz
-# test
+test
