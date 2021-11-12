@@ -1,2 +1,3 @@
 # ninjasz
 test
+test
